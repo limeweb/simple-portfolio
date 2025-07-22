@@ -1,11 +1,11 @@
 export const SITE = {
     website: "https://simple-portfolio.vicbox.dev", // replace this with your deployed domain
-    title: "Simple Portfolio",
+    title: "Red Box Portfolio",
     description: "A simple but beautiful portfolio created with Astro",
     tags: ["portfolio", "Resume cv", "Astro"],
     ogImage: "/og-image.webp",
     logo: "logo",
-    logoText: "Portfolio",
+    logoText: "Red Box Folio",
     lang: "en",
     favicon: "/favicon.png",
     repository: "https://github.com/vito8916/simple-portfolio.git",
@@ -14,7 +14,7 @@ export const SITE = {
 }
 
 export const ME = {
-    name: "VicBox Dot Dev",
+    name: "Red Box Dev",
     profession: "Software Engineer | Full Stack Developer",
     profileImage: "pp2.png",
     profileFacts: [
