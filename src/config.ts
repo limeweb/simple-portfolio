@@ -14,7 +14,7 @@ export const SITE = {
 }
 
 export const ME = {
-    name: "Red Box Dev",
+    name: "JP web design",
     profession: "Software Engineer | Full Stack Developer",
     profileImage: "pp2.png",
     profileFacts: [
